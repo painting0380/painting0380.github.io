@@ -170,7 +170,17 @@ body{
     display: inline;
     border-right: solid 1px #555;
     padding: 0px 20px;
+   }
+
+   #newsletter #branding a {
+    text-decoration: none;
+    color: #555;
    }  
+
+   #newsletter ul li a {
+    text-decoration: none;
+    color: #555;
+   }
 
    /* Boxes */
    #boxes, #boxes2, #boxes3{
@@ -534,6 +544,16 @@ body{
      border-bottom: solid 1px #A9A9A9;
      margin-top: 15px;
    }  
+
+   #newsletter #branding a {
+    text-decoration: none;
+    color: white;
+   }  
+
+   #newsletter ul li a {
+    text-decoration: none;
+    color: #555;
+   }
 
    #newsletter .current{
      color: #FF0000;
