@@ -364,7 +364,8 @@ body{
      background:#e6e6e6;
    }  
 
-   footer p{
+   /*footer p{*/
+   footer {
      padding:20px;
      margin-top:20px;
      color:#ffffff;
